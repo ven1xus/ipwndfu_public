@@ -1,0 +1,22 @@
+{
+    "LLB.d22.RELEASE.im4p": {
+        "ivkey": "f75398f16a96f394a7389481cd0ca7e44ff9f727354585f1cf332e939a51c582fdca4bca371346408c130c848defd22b",
+        "iv": "f75398f16a96f394a7389481cd0ca7e4",
+        "key": "4ff9f727354585f1cf332e939a51c582fdca4bca371346408c130c848defd22b"
+    },
+    "sep-firmware.d22.RELEASE.im4p": {
+        "ivkey": "63beadb51362da6f291d432deb6d3d9c7f5bae0809cc64cb4fcdee26d17941849966937d302f880b2006bed82b48849e",
+        "iv": "63beadb51362da6f291d432deb6d3d9c",
+        "key": "7f5bae0809cc64cb4fcdee26d17941849966937d302f880b2006bed82b48849e"
+    },
+    "iBoot.d22.RELEASE.im4p": {
+        "ivkey": "1ef67798a0c53116a47145dfff0aac609a6ddfb9f432a971be8ae360c6ce0a8e3170f372d4e3158bb04e61d81798929f",
+        "iv": "1ef67798a0c53116a47145dfff0aac60",
+        "key": "9a6ddfb9f432a971be8ae360c6ce0a8e3170f372d4e3158bb04e61d81798929f"
+    },
+    "sep-firmware.d221.RELEASE.im4p": {
+        "ivkey": "c26b549d8aba3c61becfbfdd3cba0f37bbd28f9a55a04803707648112e6672660761bc64e4d22b11b3a931a1def66700",
+        "iv": "c26b549d8aba3c61becfbfdd3cba0f37",
+        "key": "bbd28f9a55a04803707648112e6672660761bc64e4d22b11b3a931a1def66700"
+    }
+}

@@ -47,7 +47,8 @@ def all_exploit_configs(cpid):
     }
 
     return [
-        DeviceConfig("iBoot-1704.10", 0x8960, s5l8960x_patches),
+        DeviceConfig("iBoot-3332.0.0.1.23", 0x8015, t8015_patches)
+        # DeviceConfig("iBoot-1704.10", 0x8960, s5l8960x_patches),
     ]
 
 def exploit_config(serial_number):
