@@ -1,0 +1,12 @@
+{
+    "iBEC.d22.RELEASE.im4p": {
+        "ivkey": "1a0ba1fa1c42c09fa93454287b016100ad174a05ddb48153c17e2292cf7d287867f2956a0a254c649afc86328d47afe9",
+        "iv": "1a0ba1fa1c42c09fa93454287b016100",
+        "key": "ad174a05ddb48153c17e2292cf7d287867f2956a0a254c649afc86328d47afe9"
+    },
+    "iBSS.d22.RELEASE.im4p": {
+        "ivkey": "2197cca8d5c9643c3e3ec89964531be94f65f379ef5fa36cd1184b261136deed76a452a776ac8ea9c5e973eb63e12033",
+        "iv": "2197cca8d5c9643c3e3ec89964531be9",
+        "key": "4f65f379ef5fa36cd1184b261136deed76a452a776ac8ea9c5e973eb63e12033"
+    }
+}
